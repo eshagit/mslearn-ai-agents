@@ -1,0 +1,19 @@
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/05-agent-orchestration.html
+
+
+------------------------------------------------------------
+01 [user]
+Customer feedback: 
+                I use the dashboard every day to monitor metrics, and it works well overall. 
+                But when I'm working late at night, the bright screen is really harsh on my eyes. 
+                If you added a dark mode option, it would make the experience much more comfortable.
+
+------------------------------------------------------------
+02 [summarizer]
+Customer appreciates the dashboard's functionality but requests a dark mode feature for better eye comfort at night.
+------------------------------------------------------------
+03 [classifier]
+Feature request.
+------------------------------------------------------------
+04 [action]
+Log as enhancement request for product backlog.

@@ -1,0 +1,28 @@
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/04-semantic-kernel.html
+
+
+
+Here is the expenses data in your file:
+
+date,description,amount
+07-Mar-2025,taxi,24.00
+07-Mar-2025,dinner,65.50
+07-Mar-2025,hotel,125.90
+
+
+What would you like me to do with it?
+
+Submit an expense claim
+
+To: expenses@contoso.com
+Subject: Expense Claim
+Itemized Expenses:
+1. Date: 07-Mar-2025, Description: taxi, Amount: $24.00
+2. Date: 07-Mar-2025, Description: dinner, Amount: $65.50
+3. Date: 07-Mar-2025, Description: hotel, Amount: $125.90
+
+Total: $215.40 
+
+
+# Agent:
+I have submitted your expense claim to expenses@contoso.com with the itemized expenses and total.

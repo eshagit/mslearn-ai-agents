@@ -1,0 +1,39 @@
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/03c-use-agent-tools-with-mcp.html
+
+ Give me the Azure CLI commands to create an Azure Container App with a managed identity.
+
+
+ Created agent, ID: <<agent-id>>
+ MCP Server: mslearn at https://learn.microsoft.com/api/mcp
+ Created thread, ID: <<thread-id>>
+ Created message, ID: <<message-id>>
+ Created run, ID: <<run-id>>
+ Run completed with status: RunStatus.COMPLETED
+ Step <<step1-id>> status: completed
+
+ Step <<step2-id>> status: completed
+ MCP Tool calls:
+     Tool Call ID: <<tool-call-id>>
+     Type: mcp
+     Type: microsoft_code_sample_search
+
+
+ Conversation:
+ --------------------------------------------------
+ ASSISTANT: You can use Azure CLI to create an Azure Container App with a managed identity (either system-assigned or user-assigned). Below are the relevant commands and workflow:
+
+ ---
+
+ ### **1. Create a Resource Group**
+ '''azurecli
+ az group create --name myResourceGroup --location eastus
+ '''
+    
+
+    
+
+ By following these steps, you can deploy an Azure Container App with either system-assigned or user-assigned managed identities to integrate seamlessly with other Azure services.
+ --------------------------------------------------
+ USER: Give me the Azure CLI commands to create an Azure Container App with a managed identity.
+ --------------------------------------------------
+ Deleted agent

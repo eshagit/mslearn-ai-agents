@@ -1,0 +1,23 @@
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/03b-build-multi-agent-solution.html
+
+
+Creating agent thread.
+
+What's the support problem you need to resolve?: Users can't reset their password from the mobile app.
+
+Processing agent thread. Please wait.
+MessageRole.USER:
+Users can't reset their password from the mobile app.
+
+MessageRole.AGENT:
+The ticket regarding users being unable to reset their password from the mobile app has been triaged as follows:
+
+- **Priority**: High. This issue affects user access and functionality, which is critical for their experience .        
+- **Assigned Team**: Frontend team. The problem relates to the user interface and mobile app functionality .
+- **Effort Required**: Medium. The implementation involves backend and frontend changes, with an estimated effort of 2-3 days to ensure proper functionality, testing, and error handling .
+
+Cleaning up agents:
+Deleted triage agent.
+Deleted priority agent.
+Deleted team agent.
+Deleted effort agent.
